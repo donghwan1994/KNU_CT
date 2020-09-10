@@ -36,7 +36,7 @@ Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks 
 
 # UNet++: A Nested U-Net Architecture for Medical Image Segmentation
 
-Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A Nested U-Net Architecture for Medical Image Segmentation. Lecture Notes in Computer Science, 3–11." doi:10.1007/978-3-030-00889-5_1 
+Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A Nested U-Net Architecture for Medical Image Segmentation." Lecture Notes in Computer Science, 3–11. doi:10.1007/978-3-030-00889-5_1 
 
 [[Link]](https://arxiv.org/pdf/1807.10165.pdf)
 
