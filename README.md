@@ -32,16 +32,16 @@ Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks 
 
 ![Alt text](/Figs/Unet.JPG)
  
- Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
+ Figure 1.Overview of UNet
 
-# Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
+# UNet++: A Nested U-Net Architecture for Medical Image Segmentation
 
-Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine, 105615. doi:10.1016/j.cmpb.2020.105615
+Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A Nested U-Net Architecture for Medical Image Segmentation. Lecture Notes in Computer Science, 3–11." doi:10.1007/978-3-030-00889-5_1 
 
-[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0169260720314486)
+[[Link]](https://arxiv.org/pdf/1807.10165.pdf)
 
 ## Overview
 
 ![Alt text](/Figs/Unet++.jpg)
  
- Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
+ Figure Overview of Unet++
