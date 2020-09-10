@@ -1,3 +1,13 @@
+# KNU CT IMAGE
+
+|MODEL|EPOCH|LR|OPTIM|RMSE|SSIM|
+|:------:|:---:|:---:|:---:|:---:|:---:|
+|CNN with Simplified Squeeze-and-Excitation Blocks|300|0.0001|ADAM|27.1932|?|
+|6Convolution layers|300|0.0001|ADAM|27.1812|?|
+|Nested UNet|300|0.001|ADAM|26.4105|?|
+
+|ANUNet|300|0.001|ADAM|
+
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
 Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine, 105615. doi:10.1016/j.cmpb.2020.105615
