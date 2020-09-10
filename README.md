@@ -2,11 +2,10 @@
 
 |MODEL|EPOCH|LR|OPTIM|RMSE|SSIM|
 |:------:|:---:|:---:|:---:|:---:|:---:|
-|CNN with Simplified Squeeze-and-Excitation Blocks|300|0.0001|ADAM|27.1932|?|
+|CNN with Simplified SE Blocks|300|0.0001|ADAM|27.1932|?|
 |6Convolution layers|300|0.0001|ADAM|27.1812|?|
 |Nested UNet|300|0.001|ADAM|26.4105|?|
-
-|ANUNet|300|0.001|ADAM|
+|ANUNet|300|0.001|ADAM|?|?|
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
