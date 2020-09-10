@@ -32,7 +32,7 @@ Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks 
 
 ![Alt text](/Figs/Unet.JPG)
  
- Figure 1.Overview of UNet
+ Figure 1. Overview of UNet
 
 # UNet++: A Nested U-Net Architecture for Medical Image Segmentation
 
@@ -44,4 +44,4 @@ Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A
 
 ![Alt text](/Figs/Unet++.JPG)
  
- Figure Overview of Unet++
+ Figure 1. Overview of Unet++
