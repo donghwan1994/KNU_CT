@@ -24,20 +24,13 @@ Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (201
 
 # U-Net: Convolutional Networks for Biomedical Image Segmentation
 
-@misc{ronneberger2015unet,
-    title={U-Net: Convolutional Networks for Biomedical Image Segmentation},
-    author={Olaf Ronneberger and Philipp Fischer and Thomas Brox},
-    year={2015},
-    eprint={1505.04597},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
+Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation." Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015, 234–241. doi:10.1007/978-3-319-24574-4_28 
 
-[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0169260720314486)
+[[Link]](https://arxiv.org/pdf/1505.04597v1.pdf)
 
 ## Overview
 
-![Alt text](/Figs/Unet.jpg)
+![Alt text](/Figs/Unet.JPG)
  
  Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
 
