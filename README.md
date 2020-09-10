@@ -9,4 +9,4 @@ Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kern
 
 -------------------
 
-![Alt text](/1-s2.0-S0169260720314486-gr2.jpg)
+![Alt text](./1-s2.0-S0169260720314486-gr2.jpg)
