@@ -10,3 +10,4 @@ Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kern
 -------------------
 
 ![Alt text](/Figs/SE.jpg)
+Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
