@@ -10,7 +10,7 @@ Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kern
  
  Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
 
-# Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
+# CNN architecture consists of six convolutional layer
 
 Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (2019). "CT Image Conversion among Different Reconstruction Kernels without a Sinogram by Using a Convolutional Neural Network". Korean Journal of Radiology, 20(2), 295. doi:10.3348/kjr.2018.0249 
 
@@ -20,7 +20,7 @@ Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (201
 
 ![Alt text](/Figs/6Conv.jpg)
  
- Figure 1. CNN architecture consists of six convolutional layers
+ Figure 1. Overview of CNN architecture consists of six convolutional layers
 
 # U-Net: Convolutional Networks for Biomedical Image Segmentation
 
@@ -42,6 +42,6 @@ Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A
 
 ## Overview
 
-![Alt text](/Figs/Unet++.jpg)
+![Alt text](/Figs/Unet++.JPG)
  
  Figure Overview of Unet++
