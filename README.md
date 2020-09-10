@@ -1,5 +1,4 @@
-# KNU CT RESEARCH
---------------------
+# Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
 Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine, 105615. doi:10.1016/j.cmpb.2020.105615
 
@@ -7,7 +6,12 @@ Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kern
 
 ## Overview
 
--------------------
+![Alt text](/Figs/SE.jpg)
+ 
+ Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
 
+<<<<<<< HEAD
 ![Alt text](/Figs/SE.jpg)
 Figure 1.Convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks
+=======
+>>>>>>> 356fccf189b10b1a62f28fc33d957e1f76215a1e
