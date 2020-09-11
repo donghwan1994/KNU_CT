@@ -1,11 +1,11 @@
 # KNU CT IMAGE
 
-|MODEL|EPOCH|LR|OPTIM|RMSE|SSIM|
-|:------:|:---:|:---:|:---:|:---:|:---:|
-|CNN with Simplified SE Blocks|300|0.0001|ADAM|27.1932|?|
-|6Convolution layers|300|0.0001|ADAM|27.1812|?|
-|Nested UNet|300|0.001|ADAM|26.4105|?|
-|ANUNet|300|0.001|ADAM|?|?|
+|MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|CNN with Simplified SE Blocks|300|0.0001|ADAM|27.1932|39.1799|0.9888|
+|6Convolution layers|300|0.0001|ADAM|27.1812|39.2403|0.9875|
+|Nested UNet|300|0.001|ADAM|26.4105|39.4375|0.9842|
+|ANUNet|300|0.001|ADAM|22.0937|39.9585|0.9880|
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
