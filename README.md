@@ -11,6 +11,7 @@
 
 # 9.14 Update
 기존 dcm -> tif -> numpy -> tensor을 dcm -> numpy -> tensor로 변경
+
 5 Data sample 4 for trainval 1 for test
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
