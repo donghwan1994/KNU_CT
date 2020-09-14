@@ -26,6 +26,12 @@
 
 12 (Densely) Residual Channel Attention Block Implementation.
 
+# TODO
+
+[] 12 (Densely) Residual Channel Attention Block Network Train/Test
+[] Input Image Skip Connection -> good? bad?
+[] Residual Net, Densly Residual Net Comparison
+
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
 Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine
