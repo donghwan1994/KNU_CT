@@ -24,6 +24,8 @@
 
 5 Data sample 4 for trainval(8:2) 1 for test
 
+12 (Dense) Residual Channel Attention Block Implementation.
+
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
 Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine
