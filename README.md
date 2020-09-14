@@ -24,7 +24,7 @@
 
 5 Data sample 4 for trainval(8:2) 1 for test
 
-12 (Dense) Residual Channel Attention Block Implementation.
+12 (Densely) Residual Channel Attention Block Implementation.
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
