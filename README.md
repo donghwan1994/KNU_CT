@@ -9,7 +9,7 @@
 |Nested UNet|300|0.001|ADAM|26.4105|39.4375|0.9842|
 |ANUNet|300|0.001|ADAM|**22.0937**|**39.9585**|0.9880|
 
-## 5 Sample DATA
+## 5 Sample Data
 
 |MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
