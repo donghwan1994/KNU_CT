@@ -13,15 +13,20 @@
 
 |MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|6Convolution layers|300|0.001|ADAM|11.2350|45.8378|0.9883|
+|12 SE Blocks|300|??|ADAM|??|??|??|
+|12 SE RCAB|300|??|ADAM|??|??|??|
+|12 SE DRLM|300|??|ADAM|??|??|??|
+|ANUNet|300|??|ADAM|??|??|??|
 
 # 9.14 Update
 기존 dcm -> tif -> numpy -> tensor을 dcm -> numpy -> tensor로 변경
 
-5 Data sample 4 for trainval 1 for test
+5 Data sample 4 for trainval(8:2) 1 for test
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
-Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine, 105615. doi:10.1016/j.cmpb.2020.105615
+Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine
 
 [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0169260720314486)
 
@@ -33,7 +38,7 @@ Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kern
 
 # CNN architecture consists of six convolutional layer
 
-Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (2019). "CT Image Conversion among Different Reconstruction Kernels without a Sinogram by Using a Convolutional Neural Network". Korean Journal of Radiology, 20(2), 295. doi:10.3348/kjr.2018.0249 
+Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (2019). "CT Image Conversion among Different Reconstruction Kernels without a Sinogram by Using a Convolutional Neural Network". Korean Journal of Radiology
 
 [[Link]](https://pc.kjronline.org/DOIx.php?id=10.3348/kjr.2018.0249)
 
@@ -45,7 +50,7 @@ Lee, S. M., Lee, J.-G., Lee, G., Choe, J., Do, K.-H., Kim, N., & Seo, J. B. (201
 
 # U-Net: Convolutional Networks for Biomedical Image Segmentation
 
-Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation." Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015, 234–241. doi:10.1007/978-3-319-24574-4_28 
+Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks for Biomedical Image Segmentation." Medical Image Computing and Computer-Assisted Intervention – MICCAI 2015
 
 [[Link]](https://arxiv.org/pdf/1505.04597v1.pdf)
 
@@ -57,7 +62,7 @@ Ronneberger, O., Fischer, P., & Brox, T. (2015). "U-Net: Convolutional Networks 
 
 # UNet++: A Nested U-Net Architecture for Medical Image Segmentation
 
-Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A Nested U-Net Architecture for Medical Image Segmentation." Lecture Notes in Computer Science, 3–11. doi:10.1007/978-3-030-00889-5_1 
+Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A Nested U-Net Architecture for Medical Image Segmentation." Lecture Notes in Computer Science
 
 [[Link]](https://arxiv.org/pdf/1807.10165.pdf)
 
@@ -66,3 +71,36 @@ Zhou, Z., Rahman Siddiquee, M. M., Tajbakhsh, N., & Liang, J. (2018). "UNet++: A
 ![Alt text](/Figs/Unet++.JPG)
  
  Figure 1. Overview of Unet++
+
+# Image Super-Resolution Using Very Deep Residual Channel Attention Networks
+
+Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image Super-Resolution Using Very Deep Residual Channel Attention Networks", ECCV 2018,
+
+[[Link]](https://arxiv.org/pdf/1807.02758.pdf)
+
+## Overview
+
+![Alt text](/Figs/RCAB.png)
+ 
+ Figure 1. Overview of RCAB
+
+![Alt text](/Figs/RCAN.png)
+ 
+ Figure 2. Overview of RCAN
+
+ # Densely Residual Laplacian Super-Resolution
+
+Saeed Anwar, [Nick Barnes], "Densely Residual Laplacian Super-resolution", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
+
+[[Link]](https://arxiv.org/pdf/1906.12021v2.pdf)
+
+## Overview
+
+![Alt text](/Figs/LaAttention.JPG)
+ 
+ Figure 2. Overview of Laplacian attention
+
+![Alt text](/Figs/DRLM.JPG)
+ 
+ Figure 1. Overview of DRLM
+
