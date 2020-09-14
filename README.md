@@ -80,6 +80,10 @@ Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image S
 
 ## Overview
 
+![Alt text](/Figs/CA.png)
+ 
+ Figure 1. Overview of RCAB
+
 ![Alt text](/Figs/RCAB.png)
  
  Figure 1. Overview of RCAB
