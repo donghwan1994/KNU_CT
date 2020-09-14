@@ -30,7 +30,7 @@
 
 - [ ] 12 (Densely) Residual Channel Attention Block Network Train/Test
 
-- [ ] Input Image Skip Connection -> good? bad?
+- [ ] Comparison Input Image Skip Connection, Stem Feature Skip Connection
 
 - [ ] Residual Net, Densly Residual Net Comparison
 
