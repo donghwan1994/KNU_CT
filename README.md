@@ -28,9 +28,11 @@
 
 # TODO
 
-[] 12 (Densely) Residual Channel Attention Block Network Train/Test
-[] Input Image Skip Connection -> good? bad?
-[] Residual Net, Densly Residual Net Comparison
+- [ ] 12 (Densely) Residual Channel Attention Block Network Train/Test
+
+- [ ] Input Image Skip Connection -> good? bad?
+
+- [ ] Residual Net, Densly Residual Net Comparison
 
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
