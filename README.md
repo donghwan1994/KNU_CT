@@ -88,11 +88,11 @@ Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image S
 
 ![Alt text](/Figs/RCAB.png)
  
- Figure 1. Overview of RCAB
+ Figure 2. Overview of RCAB
 
 ![Alt text](/Figs/RCAN.png)
  
- Figure 2. Overview of RCAN
+ Figure 3. Overview of RCAN
 
  # Densely Residual Laplacian Super-Resolution
 
@@ -104,9 +104,9 @@ Saeed Anwar, [Nick Barnes], "Densely Residual Laplacian Super-resolution", IEEE 
 
 ![Alt text](/Figs/LaAttention.JPG)
  
- Figure 2. Overview of Laplacian attention
+ Figure 1. Overview of Laplacian attention
 
 ![Alt text](/Figs/DRLM.JPG)
  
- Figure 1. Overview of DRLM
+ Figure 2. Overview of DRLM
 
