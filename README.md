@@ -9,6 +9,11 @@
 |Nested UNet|300|0.001|ADAM|26.4105|39.4375|0.9842|
 |ANUNet|300|0.001|ADAM|**22.0937**|**39.9585**|0.9880|
 
+## 5 Sample DATA
+
+|MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+
 # 9.14 Update
 기존 dcm -> tif -> numpy -> tensor을 dcm -> numpy -> tensor로 변경
 
