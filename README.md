@@ -7,6 +7,10 @@
 |Nested UNet|300|0.001|ADAM|26.4105|39.4375|0.9842|
 |ANUNet|300|0.001|ADAM|22.0937|39.9585|0.9880|
 
+# 9.14 Update
+기존 dcm -> tif -> numpy -> tensor을 dcm -> numpy -> tensor로 변경
+5 Data sample 4 for trainval 1 for test
+
 # Convolutional Neural Net with Simplified Squeeze-and-Excitation Blocks
 
 Eun, D., Woo, I., Park, B., Kim, N., Lee A, S. M., & Seo, J. B. (2020). "CT kernel conversions using convolutional neural net for super-resolution with simplified squeeze-and-excitation blocks and progressive learning among smooth and sharp kernels." Computer Methods and Programs in Biomedicine, 105615. doi:10.1016/j.cmpb.2020.105615
