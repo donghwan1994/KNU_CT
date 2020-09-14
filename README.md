@@ -82,7 +82,7 @@ Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image S
 
 ![Alt text](/Figs/CA.png)
  
- Figure 1. Overview of RCAB
+ Figure 1. Overview of ChannelAttention
 
 ![Alt text](/Figs/RCAB.png)
  
