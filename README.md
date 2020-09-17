@@ -14,10 +14,15 @@
 |MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
 |:------:|:---:|:---:|:---:|:---:|:---:|:---:|
 |6Convolution layers|300|0.001|ADAM|11.2350|45.8378|0.9883|
-|12 SE Blocks|300|??|ADAM|??|??|??|
-|12 SE RCAB|300|??|ADAM|??|??|??|
-|12 SE DRLM|300|??|ADAM|??|??|??|
-|ANUNet|300|??|ADAM|??|??|??|
+|12 SE Blocks|300|0.0001|ADAM|14.8119|43.4440|0.9780|
+|12 SE RCAB|300|0.0001|ADAM|**10.5418**|**46.3840**|**0.9886**|
+|12 SE DRLM|300|0.0001|ADAM|12.2559|45.0733|0.9834|
+|ANUNet|300|0.0001|ADAM|51.13185|32.6201|0.9775|
+
+## 5 Sample Data, What if the network is very deep?
+|MODEL|EPOCH|LR|OPTIM|RMSE|PSNR|SSIM|
+|:------:|:---:|:---:|:---:|:---:|:---:|:---:|
+|RCAN(resblocks:10, resgroups:5)|56|0.0001|ADAM|**8.8735**|**47.8935**|**0.9919**|
 
 # 9.14 Update
 기존 dcm -> tif -> numpy -> tensor을 dcm -> numpy -> tensor로 변경
