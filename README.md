@@ -109,7 +109,7 @@ Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Image S
  
  Figure 3. Overview of RCAN
 
- # Densely Residual Laplacian Super-Resolution
+# Densely Residual Laplacian Super-Resolution
 
 Saeed Anwar, [Nick Barnes], "Densely Residual Laplacian Super-resolution", IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020.
 
@@ -125,3 +125,14 @@ Saeed Anwar, [Nick Barnes], "Densely Residual Laplacian Super-resolution", IEEE 
  
  Figure 2. Overview of DRLM
 
+# Efficient Channel Attention
+
+Wang, Q., Wu, B., Zhu, P., Li, P., Zuo, W., & Hu, Q. (2020). "ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks." 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+[[Link]](https://arxiv.org/pdf/1910.03151.pdf)
+
+## Overview
+
+![Alt text](/Figs/ECA.JPG)
+ 
+ Figure 1. Overview of Efficient Channel Attention
