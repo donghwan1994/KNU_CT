@@ -125,6 +125,18 @@ Saeed Anwar, [Nick Barnes], "Densely Residual Laplacian Super-resolution", IEEE 
  
  Figure 2. Overview of DRLM
 
+# CBAM: Convolutional Block Attention Module
+
+Woo, S., Park, J., Lee, J.-Y., & Kweon, I. S. (2018). "CBAM: Convolutional Block Attention Module. Lecture Notes in Computer Science"
+
+[[Link]](https://arxiv.org/pdf/1709.01507.pdf)
+
+## Overview
+
+![Alt text](/Figs/CBAM.PNG)
+ 
+ Figure 1. Overview of CBAM
+
 # Efficient Channel Attention
 
 Wang, Q., Wu, B., Zhu, P., Li, P., Zuo, W., & Hu, Q. (2020). "ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks." 2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
