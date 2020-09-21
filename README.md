@@ -133,6 +133,6 @@ Wang, Q., Wu, B., Zhu, P., Li, P., Zuo, W., & Hu, Q. (2020). "ECA-Net: Efficient
 
 ## Overview
 
-![Alt text](/Figs/ECA.JPG)
+![Alt text](/Figs/ECA.PNG)
  
  Figure 1. Overview of Efficient Channel Attention
